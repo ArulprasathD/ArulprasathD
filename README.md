@@ -4,8 +4,6 @@
 
 <p align="center"><b>Data Science Enthusiast</b></p>
 
----
-
 <h3 align="center">Technical Skills</h3>
 
 <p align="center">
@@ -19,12 +17,12 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 </p>
 
----
-
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="60"/>
+  <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=420&lines=Click+below+to+view+my+LinkedIn;Connect+with+me+on+LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
