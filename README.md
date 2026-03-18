@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arulprasath D</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence and Data Science</h3>
@@ -16,5 +20,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/arulprasath-d-706360323">Click here for my LinkedIn</a>
+  <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
