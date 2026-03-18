@@ -24,7 +24,7 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  ↓ Click below to connect ↓
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="60"/>
 </p>
 
 <p align="center">
