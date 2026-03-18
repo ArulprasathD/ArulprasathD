@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Arulprasath D</h1>
+<h1 align="center">Hai 👋, I'm Arulprasath D</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence and Data Science</h3>
 
