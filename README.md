@@ -21,13 +21,13 @@
 
 ---
 
-<h3 align="center">Connect</h3>
+<h3 align="center">🔗 Connect</h3>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=420&lines=Click+below+to+view+my+LinkedIn;Connect+with+me+on+LinkedIn" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Click+below+to+view+my+LinkedIn;Let's+connect+on+LinkedIn+🚀" />
   </a>
 </p>
 
