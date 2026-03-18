@@ -24,7 +24,11 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
+  ↓ Click below to connect ↓
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Click+Here+for+My+LinkedIn;Let's+Connect+🚀" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arulprasath%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
