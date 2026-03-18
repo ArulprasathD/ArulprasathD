@@ -26,7 +26,9 @@
 ---
 
 <p align="center">
-  <b>⬇️ Click below to connect ⬇️</b>
+  <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=420&lines=Click+below+to+connect;Visit+my+LinkedIn+profile" />
+  </a>
 </p>
 
 <p align="center">
