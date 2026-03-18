@@ -2,7 +2,9 @@
 
 <h3 align="center">B.Tech Artificial Intelligence and Data Science</h3>
 
-<p align="center"><b>Data Science</b></p>
+<p align="center"><b>Data Science Enthusiast</b></p>
+
+---
 
 <h3 align="center">Technical Skills</h3>
 
@@ -17,7 +19,11 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 </p>
 
+---
+
 <h3 align="center">Connect</h3>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
