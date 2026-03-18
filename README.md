@@ -2,7 +2,7 @@
 
 <h3 align="center">B.Tech Artificial Intelligence and Data Science</h3>
 
-<p align="center"><b>Data Science Enthusiast</b></p>
+<p align="center"><b>Data Science</b></p>
 
 <h3 align="center">Technical Skills</h3>
 
