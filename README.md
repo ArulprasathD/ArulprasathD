@@ -26,9 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Click+below+to+view+my+LinkedIn;Let's+connect+on+LinkedIn+🚀" />
-  </a>
+  <b>⬇️ Click below to connect ⬇️</b>
 </p>
 
 <p align="center">
