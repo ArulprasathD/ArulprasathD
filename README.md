@@ -3,7 +3,6 @@
 
 <p align="center">
   💡 Passionate about Python, SQL & Artificial Intelligence <br>
-  📚 Currently learning DSA & Machine Learning <br>
   🎯 Goal: Get placed in top tech company
 </p>
 
