@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Click+Here+for+My+LinkedIn;Let's+Connect+🚀" />
   </a>
 </p>
