@@ -1,4 +1,4 @@
-<h1 align="center">Arulprasath D</h1>
+<h1 align="center"> Arulprasath D </h1>
 
 <h3 align="center">B.Tech Artificial Intelligence and Data Science</h3>
 
