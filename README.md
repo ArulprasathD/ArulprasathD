@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">Technical Skills</h3>
+<h3 align="center"> Technical Skills</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,pycharm" height="55"/>
