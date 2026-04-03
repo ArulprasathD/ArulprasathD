@@ -1,6 +1,6 @@
 <h1 align="center">Arulprasath D</h1> 
 
-<h3 align="center">B.Tech Artificial Intelligence and Data Science </h3>
+<h3 align="center"> B.Tech Artificial Intelligence and Data Science </h3>
 
 <p align="center"><b> Data Science </b></p>
 
