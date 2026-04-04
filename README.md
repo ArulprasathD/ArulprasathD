@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 </p>
 
