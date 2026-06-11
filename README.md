@@ -1,37 +1,41 @@
-<h1 align="center">Arulprasath D</h1> 
+<h1 align="center">Arulprasath D</h1>
 
-<h3 align="center"> B.Tech Artificial Intelligence and Data Science </h3>
-
-<p align="center"><b> Data Science </b></p>
-
----
-
-<h3 align="center"> Technical Skills </h3> 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,pycharm" height="55"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">🔗 Connect</h3>
-
----
+<h3 align="center">Artificial Intelligence and Data Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=420&lines=Click+below+to+connect;Visit+my+LinkedIn+profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">🛠️ Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter Notebook"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" height="60" alt="Matplotlib"/>
+</p>
+
+<hr>
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arulprasath-d-706360323" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arulprasath-d-706360323">
-    <img src="https://img.shields.io/badge/LinkedIn-Arulprasath%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  Click the LinkedIn icon above to visit my profile.
 </p>
